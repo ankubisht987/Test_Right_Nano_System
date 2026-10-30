@@ -1,0 +1,42 @@
+{
+    "DEV_A": {
+        "count": 4,
+        "avg_temp": 48.9,
+        "error_count": 1
+    },
+    "DEV_C": {
+        "count": 5,
+        "avg_temp": 62.0,
+        "error_count": 1
+    },
+    "DEV_D": {
+        "count": 3,
+        "avg_temp": 72.67,
+        "error_count": 0
+    },
+    "DEV_E": {
+        "count": 3,
+        "avg_temp": 80.0,
+        "error_count": 0
+    },
+    "DEV_F": {
+        "count": 2,
+        "avg_temp": 31.25,
+        "error_count": 0
+    },
+    "DEV_G": {
+        "count": 4,
+        "avg_temp": 58.25,
+        "error_count": 3
+    },
+    "DEV_J": {
+        "count": 2,
+        "avg_temp": 42.0,
+        "error_count": 1
+    },
+    "DEV_K": {
+        "count": 5,
+        "avg_temp": 18.0,
+        "error_count": 0
+    }
+}
